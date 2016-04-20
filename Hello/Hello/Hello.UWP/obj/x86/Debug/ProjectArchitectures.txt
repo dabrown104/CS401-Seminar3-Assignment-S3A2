@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello.UWP\Hello.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\Hello.csproj;neutral

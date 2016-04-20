@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Hello.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\obj\Debug\Hello.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar3-Assignment-S3A2\Hello\Hello\Hello\obj\Debug\Hello.pdb
